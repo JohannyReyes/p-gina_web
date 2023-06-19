@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gracias por tu donación</title>
+</head>
+<body>
+    <h1>¡Gracias por tu donación!</h1>
+    <p>Hemos recibido una donación de {{ amount }} dólares.</p>
+</body>
+</html>
